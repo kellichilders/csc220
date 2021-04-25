@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <title> Kelli's Traveling </title>
+  </head>
+  <body>
+    <h1> Why I love to travel </h1>
+            <p> I have always loved traveling. I grew up taking road trips with my mom from North Carolina
+             to Louisiana several times a year. It is something I have always been used to and enjoyed, 
+             and now that I'm older I have a taste for more. I love to experience new cultures and places 
+             and be able to see and learn new things. </p>
+            <img src="spain.jpg" alt="Spain" /> <!--me in boat on lake-->
+        <h2> Favorite Places I Have Been </h2>
+        <ul>
+          <li> New York City </li> 
+          <li> Barcelona </li>
+          <li> Madrid </li> 
+          <li> New Orleans </li> 
+          <li> Charleston </li> 
+        </ul>
+          <p> All of these places are so charming and I had so much fun visiting each of them on the occasions I went. </p>
+      
+  </body>
+</html>      
